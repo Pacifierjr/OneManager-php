@@ -11,8 +11,8 @@ class Googledrive {
             $this->client_id = getConfig('client_id', $tag);
             $this->client_secret = getConfig('client_secret', $tag);
         } else {
-            $this->client_id = '106151778902-ajieetaab5ondhbvia97n4tr5k0cg8eo.apps.googleusercontent.com';
-            $this->client_secret = 'LlCV-rQClzYIKCEqiVddh68G';
+            $this->client_id = '188704599209-lgk7qlaa48574523at57lqe6kip367df.apps.googleusercontent.com';
+            $this->client_secret = 'GfylY58jZCBbf5-65uqWUI8U';
         }
         //$this->oauth_url = 'https://www.googleapis.com/oauth2/v4/';
         $this->oauth_url = 'https://accounts.google.com/o/oauth2/';
